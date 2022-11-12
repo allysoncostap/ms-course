@@ -1,7 +1,7 @@
 package com.allyson.hrworker.repositories;
 
-import com.allyson.hrworker.entities.Worker;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface WorkerRepository extends JpaRepository<Worker,Long> {
-}
+import com.allyson.hrworker.entities.Worker;
+
+public interface WorkerRepository extends JpaRepository<Worker, Long> {}
