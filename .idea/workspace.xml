@@ -5,25 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be1ede7b-01a6-4dff-9275-08b1f966fb4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_2_1_214.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_3_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_2_1_214.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_3_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_3_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_oauth2_2_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_security_2_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_3_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_3_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_3_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_3_4_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ms-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ms-course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/allyson/hrpayroll/HrPayrollApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/allyson/hrpayroll/HrPayrollApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/java/com/allyson/hrapigatewayzuul/HrApiGatewayZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/java/com/allyson/hrapigatewayzuul/HrApiGatewayZuulApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/test/java/com/allyson/hrapigatewayzuul/HrApiGatewayZuulApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-eureka-server/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/allyson/hrpayroll/resources/PaymentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/allyson/hrpayroll/resources/PaymentResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/hr-worker/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/entities/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/entities/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/repositories/WorkerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/repositories/WorkerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/resources/WorkerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/resources/WorkerResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/.idea/hr-worker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/HrWorkerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/entities/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/repositories/WorkerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/resources/WorkerResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/test/java/com/allyson/hrworker/HrWorkerApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +76,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2HSVWGHqpoXZaoTBGUV2zqwtsbO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,13 +86,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Karol/Downloads/ms-course/hr-worker",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.159375",
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "9d09dd86c063ee32114fc5050b66c7e3"
   }
 }]]></component>
-  <component name="RunManager" selected="Spring Boot.HrPayrollApplication">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HrEurekaServerApplication">
     <configuration name="HrApiGatewayZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="hr-api-gateway-zuul" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.allyson.hrapigatewayzuul.HrApiGatewayZuulApplication" />
       <method v="2">
@@ -64,6 +121,9 @@
       </method>
     </configuration>
     <configuration name="HrEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="hr-eureka-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.allyson.hreurekaserver.HrEurekaServerApplication" />
       <method v="2">
@@ -71,6 +131,9 @@
       </method>
     </configuration>
     <configuration name="HrPayrollApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="hr-payroll" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.allyson.hrpayroll.HrPayrollApplication" />
       <method v="2">
@@ -78,12 +141,21 @@
       </method>
     </configuration>
     <configuration name="HrWorkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="hr-worker" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.allyson.hrworker.HrWorkerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.HrEurekaServerApplication" />
+      <item itemvalue="Spring Boot.HrApiGatewayZuulApplication" />
+      <item itemvalue="Spring Boot.HrWorkerApplication" />
+      <item itemvalue="Spring Boot.HrPayrollApplication" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,7 +165,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668278501891</updated>
-      <workItem from="1668278508075" duration="2073000" />
+      <workItem from="1668278508075" duration="5755000" />
+      <workItem from="1668285887062" duration="3898000" />
+      <workItem from="1668354712455" duration="8234000" />
     </task>
     <servers />
   </component>
