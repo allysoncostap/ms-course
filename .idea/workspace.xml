@@ -5,58 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be1ede7b-01a6-4dff-9275-08b1f966fb4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_2_1_214.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_7_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_oauth2_2_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_security_2_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_1_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/java/com/allyson/hrapigatewayzuul/HrApiGatewayZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/java/com/allyson/hrapigatewayzuul/HrApiGatewayZuulApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/test/java/com/allyson/hrapigatewayzuul/HrApiGatewayZuulApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-eureka-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/allyson/hrpayroll/resources/PaymentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/allyson/hrpayroll/resources/PaymentResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/.idea/hr-worker.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/HrWorkerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/entities/Worker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/repositories/WorkerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/java/com/allyson/hrworker/resources/WorkerResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/main/resources/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/hr-worker/src/test/java/com/allyson/hrworker/HrWorkerApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +116,7 @@
       <updated>1668278501891</updated>
       <workItem from="1668278508075" duration="5755000" />
       <workItem from="1668285887062" duration="3898000" />
-      <workItem from="1668354712455" duration="8234000" />
+      <workItem from="1668354712455" duration="8546000" />
     </task>
     <servers />
   </component>
