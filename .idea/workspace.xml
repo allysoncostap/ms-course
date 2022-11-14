@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be1ede7b-01a6-4dff-9275-08b1f966fb4e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/allyson/hrworker/resources/WorkerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/allyson/hrworker/resources/WorkerResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-11",
     "last_opened_file_path": "C:/Users/Karol/Downloads/ms-course/hr-worker",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.159375",
@@ -60,13 +63,21 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.HrEurekaServerApplication">
+  <component name="RunManager" selected="Spring Boot.HrConfigServerApplication">
     <configuration name="HrApiGatewayZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="ACTIVE_PROFILES" />
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="hr-api-gateway-zuul" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.allyson.hrapigatewayzuul.HrApiGatewayZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HrConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="hr-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.allyson.hrconfigserver.HrConfigServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,6 +113,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Spring Boot.HrConfigServerApplication" />
       <item itemvalue="Spring Boot.HrEurekaServerApplication" />
       <item itemvalue="Spring Boot.HrApiGatewayZuulApplication" />
       <item itemvalue="Spring Boot.HrWorkerApplication" />
@@ -118,7 +130,7 @@
       <updated>1668278501891</updated>
       <workItem from="1668278508075" duration="5755000" />
       <workItem from="1668285887062" duration="3898000" />
-      <workItem from="1668354712455" duration="9165000" />
+      <workItem from="1668354712455" duration="18562000" />
     </task>
     <servers />
   </component>
