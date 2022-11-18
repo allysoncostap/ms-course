@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/hr-payroll/hr-payroll.iml" filepath="$PROJECT_DIR$/hr-payroll/hr-payroll.iml" />
       <module fileurl="file://$PROJECT_DIR$/hr-user/hr-user.iml" filepath="$PROJECT_DIR$/hr-user/hr-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/hr-worker/hr-worker.iml" filepath="$PROJECT_DIR$/hr-worker/hr-worker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/ms-course.iml" filepath="$PROJECT_DIR$/.idea/ms-course.iml" />
     </modules>
   </component>
 </project>
