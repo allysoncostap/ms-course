@@ -5,29 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc423698-6107-4f4f-8149-56f645ff6a03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/allyson/hruser/entities/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper9.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ms-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ms-course.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-eureka-server/untitled/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-user/src/main/java/com/allyson/hruser/HrUserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/allyson/hruser/HrUserApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-user/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-user/src/test/java/com/allyson/hruser/HrUserApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-user/src/main/java/com/allyson/hruser/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/allyson/hruser/entities/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,9 +52,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.16640624",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "8c75837675d76d6853e9c1bcb47ce716"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -162,7 +144,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668822094781</updated>
-      <workItem from="1668822107628" duration="3510000" />
+      <workItem from="1668822107628" duration="4873000" />
+      <workItem from="1668991320164" duration="5147000" />
     </task>
     <servers />
   </component>
