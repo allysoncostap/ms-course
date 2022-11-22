@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc423698-6107-4f4f-8149-56f645ff6a03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-user/src/main/java/com/allyson/hruser/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/allyson/hruser/entities/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "C:/Users/Karol/Downloads/ms-course/hr-oauth",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.16640624",
     "project.structure.side.proportion": "0.2",
     "spring.configuration.checksum": "8c75837675d76d6853e9c1bcb47ce716"
@@ -70,7 +72,14 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.hr-user">
+  <component name="RunManager" selected="Spring Boot.hr-oauth">
+    <configuration name="HrOauthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hr-oauth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.allyson.hroauth.HrOauthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hr-api-gateway-zuuk" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="ACTIVE_PROFILES" />
       <module name="hr-api-gateway-zuul" />
@@ -95,6 +104,16 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="hr-eureka-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.allyson.hreurekaserver.HrEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hr-oauth" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="hr-oauth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.allyson.hroauth.HrOauthApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,10 +147,12 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Spring Boot.HrOauthApplication" />
       <item itemvalue="Spring Boot.hr-api-gateway-zuuk" />
       <item itemvalue="Spring Boot.hr-eureka-server" />
       <item itemvalue="Spring Boot.hr-worker" />
       <item itemvalue="Spring Boot.hr-user" />
+      <item itemvalue="Spring Boot.hr-oauth" />
       <item itemvalue="Spring Boot.hr-payroll" />
       <item itemvalue="Spring Boot.hr-config-server" />
     </list>
@@ -145,7 +166,8 @@
       <option name="presentableId" value="Default" />
       <updated>1668822094781</updated>
       <workItem from="1668822107628" duration="4873000" />
-      <workItem from="1668991320164" duration="5147000" />
+      <workItem from="1668991320164" duration="5859000" />
+      <workItem from="1669086204546" duration="806000" />
     </task>
     <servers />
   </component>
