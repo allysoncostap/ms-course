@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping(value = "/users")
-public class UserResource {
+public class UserResource  {
 @Autowired
     private UserService service;
 @GetMapping(value = "/search")

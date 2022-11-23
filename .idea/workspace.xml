@@ -8,8 +8,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-oauth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/HrOauthApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/HrOauthApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-user/src/main/java/com/allyson/hruser/resouces/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/allyson/hruser/resouces/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/resources/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/resources/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/services/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.16640624",
     "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "8c75837675d76d6853e9c1bcb47ce716"
+    "spring.configuration.checksum": "d7dcc96e85aa9fa44b64802b40d24b8d"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -120,6 +121,8 @@
     </configuration>
     <configuration name="hr-payroll" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="hr-payroll" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.allyson.hrpayroll.HrPayrollApplication" />
       <method v="2">
@@ -166,7 +169,8 @@
       <updated>1668822094781</updated>
       <workItem from="1668822107628" duration="4873000" />
       <workItem from="1668991320164" duration="5859000" />
-      <workItem from="1669086204546" duration="4433000" />
+      <workItem from="1669086204546" duration="5367000" />
+      <workItem from="1669161984782" duration="7691000" />
     </task>
     <servers />
   </component>
