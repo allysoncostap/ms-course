@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dc423698-6107-4f4f-8149-56f645ff6a03" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-oauth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/entities/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/resources/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/resources/UserResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Downloads/ms-course/hr-oauth/src/main/java/com/allyson/hroauth/entities",
+    "last_opened_file_path": "C:/Users/Karol/Downloads/ms-course/hr-api-gateway-zuul",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.16640624",
     "project.structure.side.proportion": "0.2",
@@ -78,7 +74,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.hr-oauth">
+  <component name="RunManager" selected="Spring Boot.hr-api-gateway-zuuk">
     <configuration name="hr-api-gateway-zuuk" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="ACTIVE_PROFILES" />
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
@@ -170,7 +166,8 @@
       <workItem from="1668822107628" duration="4873000" />
       <workItem from="1668991320164" duration="5859000" />
       <workItem from="1669086204546" duration="5367000" />
-      <workItem from="1669161984782" duration="7691000" />
+      <workItem from="1669161984782" duration="8467000" />
+      <workItem from="1669259920072" duration="3187000" />
     </task>
     <servers />
   </component>
