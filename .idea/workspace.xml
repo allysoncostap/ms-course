@@ -7,6 +7,11 @@
     <list default="true" id="dc423698-6107-4f4f-8149-56f645ff6a03" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/java/com/allyson/hrapigatewayzuul/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/java/com/allyson/hrapigatewayzuul/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/java/com/allyson/hrapigatewayzuul/config/ResourceServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/java/com/allyson/hrapigatewayzuul/config/ResourceServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-oauth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/config/AuthorizationServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-oauth/src/main/java/com/allyson/hroauth/config/AuthorizationServerConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Karol/Downloads/ms-course/hr-api-gateway-zuul",
+    "last_opened_file_path": "C:/Users/Karol/Downloads/ms-course/hr-oauth/src/main/resources",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.16640624",
     "project.structure.side.proportion": "0.2",
@@ -64,6 +69,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Karol\Downloads\ms-course\hr-oauth\src\main\resources" />
+      <recent name="C:\Users\Karol\Downloads\ms-course\hr-api-gateway-zuul\src\main\resources" />
       <recent name="C:\Users\Karol\Downloads\ms-course\hr-oauth\src\main\java\com\allyson\hroauth\entities" />
     </key>
   </component>
@@ -167,7 +174,9 @@
       <workItem from="1668991320164" duration="5859000" />
       <workItem from="1669086204546" duration="5367000" />
       <workItem from="1669161984782" duration="8467000" />
-      <workItem from="1669259920072" duration="3187000" />
+      <workItem from="1669259920072" duration="4176000" />
+      <workItem from="1669333929618" duration="5272000" />
+      <workItem from="1669345275244" duration="7225000" />
     </task>
     <servers />
   </component>
