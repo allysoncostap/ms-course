@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="dc423698-6107-4f4f-8149-56f645ff6a03" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-user/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/create.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.hr-config-server">
+  <component name="RunManager" selected="Spring Boot.hr-user">
     <configuration name="hr-api-gateway-zuuk" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="ACTIVE_PROFILES" />
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
@@ -176,7 +177,7 @@
       <workItem from="1669333929618" duration="5272000" />
       <workItem from="1669345275244" duration="7942000" />
       <workItem from="1669421454982" duration="5613000" />
-      <workItem from="1669507868097" duration="4444000" />
+      <workItem from="1669507868097" duration="16065000" />
     </task>
     <servers />
   </component>
